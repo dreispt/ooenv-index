@@ -1,0 +1,4 @@
+crm_department: https://github.com/oca/department.git -b 8.0
+analytic_department: https://github.com/oca/department.git -b 8.0
+base_contact: https://github.com/OCA/partner-contact.git -b 8.0
+
